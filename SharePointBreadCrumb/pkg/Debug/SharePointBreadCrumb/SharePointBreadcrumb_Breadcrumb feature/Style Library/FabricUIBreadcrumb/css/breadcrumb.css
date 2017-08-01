@@ -121,7 +121,7 @@ li.ms-Breadcrumb-listItem:first-child a {
     font-weight: 400;
     display: inline-block;
     padding: 0 4px;
-    max-width: 160px;
+    max-width: 300px;
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden
